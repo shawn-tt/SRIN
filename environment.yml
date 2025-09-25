@@ -4,3 +4,9 @@ channels:
   - defaults
 dependencies:
   - streamlit=1.50.0
+  - numpy=2.3.3
+  - matplotlib=3.10.6
+  - plotly=6.3.0
+  - python-sounddevice=0.5.2
+  - pyqt=6.9.1
+  - pyqtgraph=0.13.7
