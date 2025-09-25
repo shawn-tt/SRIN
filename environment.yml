@@ -1,0 +1,6 @@
+name: SRIN
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - streamlit=1.50.0
